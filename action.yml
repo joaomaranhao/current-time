@@ -1,0 +1,11 @@
+name: 'Current Time'
+description: 'Get the current time'
+branding:
+  icon: clock
+  color: blue
+outputs:
+  time:
+    description: "The time this action was run"
+runs:
+  using: "node16"
+  main: "action/index.js"
