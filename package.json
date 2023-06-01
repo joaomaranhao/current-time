@@ -6,6 +6,7 @@
   "author": "Joao Maranhao <joaofelipemaranhao@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.10.0"
+    "@actions/core": "^1.10.0",
+    "@actions/exec": "^1.1.1"
   }
 }
