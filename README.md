@@ -13,7 +13,7 @@ The UTC time when this step was run.
 ```yaml
 steps:
 - name: Get current time
-  uses: gerred/actions/current-time@master
+  uses: joaomaranhao/current-time@main
   id: current-time
 - name: Use current time
   env:
